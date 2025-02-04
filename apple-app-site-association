@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "com.zacharyuptin.DoomlingsV4",
-        "paths": [ "/join/*" ]
+        "paths": [ "/doomlingsAppDomain/*" ]
       }
     ]
   }
