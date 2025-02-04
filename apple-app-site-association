@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAMID.com.yourcompany.YourApp",
+        "appID": "com.zacharyuptin.DoomlingsV4",
         "paths": [ "/join/*" ]
       }
     ]
